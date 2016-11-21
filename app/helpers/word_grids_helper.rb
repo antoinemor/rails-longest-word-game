@@ -1,0 +1,2 @@
+module WordGridsHelper
+end
